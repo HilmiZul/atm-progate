@@ -1,10 +1,10 @@
-# Aplikasi ATM
+# Aplikasi ATM 🏦
 Ini adalah Tugas Akhir dari pelatihan *online* di progate.com kelas Backend menggunakan bahasa Python.
 
-# Prerequisite
+# Prerequisite 🐍
 - Python 3.7.x atau yang terbaru
 
-# Install
+# Install 🚀
 - Donwload / Clone repo ini
 - Ekstrak
 - Buka Terminal / Cmd
@@ -13,7 +13,7 @@ Ini adalah Tugas Akhir dari pelatihan *online* di progate.com kelas Backend meng
 $ python main.py
 ```
 
-# Spesial Thanks
+# Spesial Thanks 🥳
 - [Progate](https://progate.com) 🏫
 - Mentor 👨🏻‍💻
 - Guru Domba 🐑
